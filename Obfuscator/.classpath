@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Franco/Desktop/jd-gui-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Franco/Desktop/Roba/Obf Path/new/asm-tree-7.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Franco/Desktop/Roba/Obf Path/new/asm-7.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Franco/Desktop/Roba/Obf Path/new/asm-analysis-7.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Franco/Desktop/Roba/Obf Path/new/asm-commons-7.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Franco/Desktop/Roba/Obf Path/jopt-simple-4.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
